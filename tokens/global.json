@@ -3,15 +3,15 @@
     "color": {
       "neuchatel": {
         "10": {
-          "value": "#F7FDFD",
+          "value": "#F7FSSD",
           "type": "color"
         },
         "20": {
-          "value": "#E7F8F8",
+          "value": "#E7F8SS",
           "type": "color"
         },
         "30": {
-          "value": "#AEE7E8",
+          "value": "#AEE7SS",
           "type": "color"
         },
         "40": {
