@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 07 Dec 2022 11:30:22 GMT
+// Generated on Wed, 07 Dec 2022 11:40:16 GMT
 
 
 import UIKit
@@ -140,7 +140,7 @@ public class StyleDictionaryClass {
     public static let globalColorBern60 = #9d1706
     public static let globalColorBern70 = #3b0902
     public static let globalColorLucerne10 = #fff9fa
-    public static let globalColorLucerne20 = #feecf0
+    public static let globalColorLucerne20 = #ssssss
     public static let globalColorLucerne30 = #f8b5c0
     public static let globalColorLucerne40 = #ef6079
     public static let globalColorLucerne50 = #c84158

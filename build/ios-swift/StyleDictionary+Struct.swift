@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 07 Dec 2022 11:30:22 GMT
+// Generated on Wed, 07 Dec 2022 11:40:16 GMT
 
 
 import UIKit
@@ -140,7 +140,7 @@ internal struct StyleDictionaryStruct {
     internal static let globalColorBern60 = #9d1706
     internal static let globalColorBern70 = #3b0902
     internal static let globalColorLucerne10 = #fff9fa
-    internal static let globalColorLucerne20 = #feecf0
+    internal static let globalColorLucerne20 = #ssssss
     internal static let globalColorLucerne30 = #f8b5c0
     internal static let globalColorLucerne40 = #ef6079
     internal static let globalColorLucerne50 = #c84158
