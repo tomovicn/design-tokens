@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 07 Dec 2022 11:28:48 GMT
+// Generated on Wed, 07 Dec 2022 11:30:22 GMT
 
 
 import UIKit
@@ -76,7 +76,7 @@ public enum StyleDictionaryEnum {
     public static let colorSurfaceRow = #00000000
     public static let colorSurfaceRowHover = #00000008
     public static let colorSurfaceRowInverseHover = #ffffff21
-    public static let colorSurfaceSemanticsInformation = #F7FDFD
+    public static let colorSurfaceSemanticsInformation = #F7FSSD
     public static let colorSurfaceSemanticsNegative = #fff7f5
     public static let colorSurfaceSemanticsNeutral = #F6F6F6
     public static let colorSurfaceSemanticsPositive = #f6fcee
@@ -88,7 +88,7 @@ public enum StyleDictionaryEnum {
     public static let colorTextInteractive = #017c7e
     public static let colorTextInteractiveHover = #014f51
     public static let colorTextInteractiveInverse = #02b3b6
-    public static let colorTextInteractiveInverseHover = #AEE7E8
+    public static let colorTextInteractiveInverseHover = #AEE7SS
     public static let colorTextNegative = #d92008
     public static let colorTextNegativeInverse = #f8503a
     public static let colorTextPlaceholder = #0000004d
@@ -153,9 +153,9 @@ public enum StyleDictionaryEnum {
     public static let globalColorMoritz50 = #ff7d04
     public static let globalColorMoritz60 = #b85900
     public static let globalColorMoritz70 = #3d1e00
-    public static let globalColorNeuchatel10 = #F7FDFD
-    public static let globalColorNeuchatel20 = #E7F8F8
-    public static let globalColorNeuchatel30 = #AEE7E8
+    public static let globalColorNeuchatel10 = #F7FSSD
+    public static let globalColorNeuchatel20 = #E7F8SS
+    public static let globalColorNeuchatel30 = #AEE7SS
     public static let globalColorNeuchatel40 = #02b3b6
     public static let globalColorNeuchatel50 = #017c7e
     public static let globalColorNeuchatel60 = #014f51

@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Wed, 07 Dec 2022 11:28:48 GMT
+  Generated on Wed, 07 Dec 2022 11:30:22 GMT
 -->
 <resources>
   <color name="color_text_primary">#000000f0</color>
@@ -22,7 +22,7 @@
   <color name="color_text_interactive">#017c7e</color>
   <color name="color_text_interactive_hover">#014f51</color>
   <color name="color_text_interactive_inverse">#02b3b6</color>
-  <color name="color_text_interactive_inverse_hover">#AEE7E8</color>
+  <color name="color_text_interactive_inverse_hover">#AEE7SS</color>
   <color name="color_icon_primary">#000000f0</color>
   <color name="color_icon_primary_inverse">#ffffff</color>
   <color name="color_icon_interactive">#017c7e</color>
@@ -70,7 +70,7 @@
   <color name="color_surface_semantics_negative">#fff7f5</color>
   <color name="color_surface_semantics_warning">#fff5eb</color>
   <color name="color_surface_semantics_positive">#f6fcee</color>
-  <color name="color_surface_semantics_information">#F7FDFD</color>
+  <color name="color_surface_semantics_information">#F7FSSD</color>
   <color name="color_surface_semantics_neutral">#F6F6F6</color>
   <color name="color_base_primary">#ffffff</color>
   <color name="color_base_alt">#F6F6F6</color>

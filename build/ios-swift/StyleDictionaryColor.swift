@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 07 Dec 2022 11:28:48 GMT
+// Generated on Wed, 07 Dec 2022 11:30:22 GMT
 
 
 import UIKit
@@ -66,7 +66,7 @@ public enum StyleDictionaryColor {
     public static let surfaceRow = #00000000
     public static let surfaceRowHover = #00000008
     public static let surfaceRowInverseHover = #ffffff21
-    public static let surfaceSemanticsInformation = #F7FDFD
+    public static let surfaceSemanticsInformation = #F7FSSD
     public static let surfaceSemanticsNegative = #fff7f5
     public static let surfaceSemanticsNeutral = #F6F6F6
     public static let surfaceSemanticsPositive = #f6fcee
@@ -78,7 +78,7 @@ public enum StyleDictionaryColor {
     public static let textInteractive = #017c7e
     public static let textInteractiveHover = #014f51
     public static let textInteractiveInverse = #02b3b6
-    public static let textInteractiveInverseHover = #AEE7E8
+    public static let textInteractiveInverseHover = #AEE7SS
     public static let textNegative = #d92008
     public static let textNegativeInverse = #f8503a
     public static let textPlaceholder = #0000004d
