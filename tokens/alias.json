@@ -1,0 +1,449 @@
+{
+  "color": {
+    "text": {
+      "primary": {
+        "value": "{global.color.transparent.black.100}",
+        "type": "color",
+        "description": "Headings, titles, button labels, filled input text"
+      },
+      "primary-inverse": {
+        "value": "{global.color.transparent.white.100}",
+        "type": "color",
+        "description": "Headings, titles, button labels, filled input text"
+      },
+      "secondary": {
+        "value": "{global.color.transparent.black.70}",
+        "type": "color",
+        "description": "Paragraphs"
+      },
+      "secondary-inverse": {
+        "value": "{global.color.transparent.white.70}",
+        "type": "color",
+        "description": "Paragraphs"
+      },
+      "tertiary": {
+        "value": "{global.color.transparent.black.60}",
+        "type": "color",
+        "description": "Subheading and subtext"
+      },
+      "tertiary-inverse": {
+        "value": "{global.color.transparent.white.60}",
+        "type": "color"
+      },
+      "placeholder": {
+        "value": "{global.color.transparent.black.50}",
+        "type": "color",
+        "description": "Input placeholder text"
+      },
+      "placeholder-inverse": {
+        "value": "{global.color.transparent.white.50}",
+        "type": "color",
+        "description": "Input placeholder text"
+      },
+      "negative": {
+        "value": "{global.color.bern.50}",
+        "type": "color",
+        "description": "Destructive and error text"
+      },
+      "negative-inverse": {
+        "value": "{global.color.bern.40}",
+        "type": "color",
+        "description": "Destructive and error text"
+      },
+      "warning": {
+        "value": "{global.color.moritz.60}",
+        "type": "color",
+        "description": "Warning text"
+      },
+      "warning-inverse": {
+        "value": "{global.color.moritz.50}",
+        "type": "color",
+        "description": "Warning text"
+      },
+      "positive": {
+        "value": "{global.color.basel.60}",
+        "type": "color",
+        "description": "Success text"
+      },
+      "positive-inverse": {
+        "value": "{global.color.basel.40}",
+        "type": "color",
+        "description": "Success text"
+      },
+      "interactive": {
+        "value": "{global.color.neuchatel.50}",
+        "type": "color",
+        "description": "Plain button label and links"
+      },
+      "interactive-hover": {
+        "value": "{global.color.neuchatel.60}",
+        "type": "color",
+        "description": "Link hover state"
+      },
+      "interactive-inverse": {
+        "value": "{global.color.neuchatel.40}",
+        "type": "color",
+        "description": "Plain button label and links"
+      },
+      "interactive-inverse-hover": {
+        "value": "{global.color.neuchatel.30}",
+        "type": "color",
+        "description": "Link hover state"
+      }
+    },
+    "icon": {
+      "primary": {
+        "value": "{global.color.transparent.black.100}",
+        "type": "color",
+        "description": "Default icon color"
+      },
+      "primary-inverse": {
+        "value": "{global.color.transparent.white.100}",
+        "type": "color",
+        "description": "Plain button label and links"
+      },
+      "interactive": {
+        "value": "{global.color.neuchatel.50}",
+        "type": "color",
+        "description": "Information and interactive state for icons"
+      },
+      "interactive-inverse": {
+        "value": "{global.color.neuchatel.40}",
+        "type": "color",
+        "description": "Information and interactive state for icons"
+      },
+      "negative": {
+        "value": "{global.color.bern.50}",
+        "type": "color",
+        "description": "Destructive and error icon color"
+      },
+      "negative-inverse": {
+        "value": "{global.color.bern.40}",
+        "type": "color",
+        "description": "Destructive and error icon color"
+      },
+      "warning": {
+        "value": "{global.color.moritz.50}",
+        "type": "color",
+        "description": "Warning icon color"
+      },
+      "warning-inverse": {
+        "value": "{global.color.moritz.40}",
+        "type": "color",
+        "description": "Warning icon color"
+      },
+      "positive": {
+        "value": "{global.color.basel.50}",
+        "type": "color",
+        "description": "Success icon color"
+      },
+      "positive-inverse": {
+        "value": "{global.color.basel.50}",
+        "type": "color",
+        "description": "Success icon color"
+      },
+      "bg-hover": {
+        "value": "{global.color.transparent.black.20}",
+        "type": "color",
+        "description": "Background hover color for plain icon buttons"
+      },
+      "bg-hover-inverse": {
+        "value": "{global.color.transparent.white.20}",
+        "type": "color",
+        "description": "Background hover color for plain icon buttons"
+      }
+    },
+    "border": {
+      "divider": {
+        "value": "{global.color.transparent.black.30}",
+        "type": "color",
+        "description": "Color used for dividers"
+      },
+      "divider-inverse": {
+        "value": "{global.color.transparent.white.20}",
+        "type": "color",
+        "description": "Color used for dividers"
+      },
+      "light": {
+        "value": "{global.color.transparent.black.30}",
+        "type": "color",
+        "description": "Default outline color and tertiary buttons"
+      },
+      "light-inverse": {
+        "value": "{global.color.transparent.white.40}",
+        "type": "color",
+        "description": "Default outline color and tertiary buttons"
+      },
+      "medium": {
+        "value": "{global.color.transparent.black.40}",
+        "type": "color"
+      },
+      "medium-inverse": {
+        "value": "{global.color.transparent.white.40}",
+        "type": "color"
+      },
+      "strong": {
+        "value": "{global.color.transparent.black.60}",
+        "type": "color",
+        "description": "Color for medium buttons"
+      },
+      "strong-inverse": {
+        "value": "{global.color.transparent.white.60}",
+        "type": "color",
+        "description": "Color for secondary buttons"
+      },
+      "negative": {
+        "value": "{global.color.bern.50}",
+        "type": "color",
+        "description": "Border color for errors or destructive actions"
+      },
+      "negative-inverse": {
+        "value": "{global.color.bern.40}",
+        "type": "color",
+        "description": "Border color for errors or destructive actions"
+      }
+    },
+    "brand": {
+      "primary": {
+        "value": "{global.color.neuchatel.50}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{global.color.neuchatel.60}",
+        "type": "color"
+      },
+      "accent": {
+        "value": "{global.color.neuchatel.40}",
+        "type": "color"
+      },
+      "dark": {
+        "value": "{global.color.neuchatel.70}",
+        "type": "color"
+      }
+    },
+    "chart": {
+      "1": {
+        "value": "{global.color.neuchatel.50}",
+        "type": "color",
+        "description": "US: Normal | EU+CA: Optimal"
+      },
+      "2": {
+        "value": "{global.color.basel.40}",
+        "type": "color",
+        "description": "US: Null | EU+CA: Normal"
+      },
+      "3": {
+        "value": "{global.color.moritz.30}",
+        "type": "color",
+        "description": "US: Elevated | EU+CA: Elevated"
+      },
+      "4": {
+        "value": "{global.color.moritz.50}",
+        "type": "color",
+        "description": "US: Stage 1 | EU+CA: Stage 1"
+      },
+      "5": {
+        "value": "{global.color.bern.50}",
+        "type": "color",
+        "description": "US: Stage 2 | EU+CA: Stage 2"
+      },
+      "6": {
+        "value": "{global.color.bern.60}",
+        "type": "color",
+        "description": "US: Hypertensive crisis | EU+CA: Stage 3"
+      },
+      "none": {
+        "value": "{global.color.zurich.30}",
+        "type": "color",
+        "description": "None or incomplete readings"
+      }
+    },
+    "surface": {
+      "primary": {
+        "value": "{global.color.zurich.5}",
+        "type": "color"
+      },
+      "alt": {
+        "value": "{global.color.zurich.10}",
+        "type": "color"
+      },
+      "ui": {
+        "value": "{global.color.transparent.black.30}",
+        "type": "color",
+        "description": "Used for UI backgrounds like switches and segmented controller"
+      },
+      "ui-inverse": {
+        "value": "{global.color.transparent.white.30}",
+        "type": "color",
+        "description": "Used for UI backgrounds like switches and segmented controller"
+      },
+      "dark": {
+        "value": "{global.color.neuchatel.70}",
+        "type": "color"
+      },
+      "row": {
+        "value": "{global.color.transparent.black.10}",
+        "type": "color"
+      },
+      "row-hover": {
+        "value": "{global.color.transparent.black.20}",
+        "type": "color"
+      },
+      "row-inverse-hover": {
+        "value": "{global.color.transparent.white.20}",
+        "type": "color"
+      },
+      "skeleton": {
+        "value": "{global.color.transparent.black.20}",
+        "type": "color"
+      },
+      "skeleton-inverse": {
+        "value": "{global.color.transparent.white.20}",
+        "type": "color"
+      },
+      "backdrop": {
+        "value": "{global.color.transparent.black.60}",
+        "type": "color"
+      },
+      "semantics": {
+        "negative": {
+          "value": "{global.color.bern.10}",
+          "type": "color",
+          "description": "Error or destructive background"
+        },
+        "warning": {
+          "value": "{global.color.moritz.10}",
+          "type": "color"
+        },
+        "positive": {
+          "value": "{global.color.basel.10}",
+          "type": "color",
+          "description": "Success background"
+        },
+        "information": {
+          "value": "{global.color.neuchatel.10}",
+          "type": "color",
+          "description": "Information background"
+        },
+        "neutral": {
+          "value": "{global.color.zurich.10}",
+          "type": "color"
+        }
+      }
+    },
+    "base": {
+      "primary": {
+        "value": "{global.color.zurich.5}",
+        "type": "color"
+      },
+      "alt": {
+        "value": "{global.color.zurich.10}",
+        "type": "color"
+      },
+      "dark": {
+        "value": "{global.color.neuchatel.70}",
+        "type": "color"
+      }
+    },
+    "button": {
+      "primary": {
+        "value": "{global.color.neuchatel.60}",
+        "type": "color",
+        "description": "Primary button background color"
+      },
+      "primary-hover": {
+        "value": "{global.color.neuchatel.70}",
+        "type": "color",
+        "description": "Primary button background hover color"
+      },
+      "primary-inverse": {
+        "value": "{global.color.neuchatel.50}",
+        "type": "color",
+        "description": "Primary button background inverse color"
+      },
+      "primary-inverse-hover": {
+        "value": "{global.color.neuchatel.60}",
+        "type": "color",
+        "description": "Primary button background inverse hover color"
+      },
+      "secondary": {
+        "value": "{global.color.transparent.white.100}",
+        "type": "color",
+        "description": "Secondary button background color"
+      },
+      "secondary-hover": {
+        "value": "{global.color.transparent.black.20}",
+        "type": "color",
+        "description": "Secondary button background hover color"
+      },
+      "secondary-inverse-hover": {
+        "value": "{global.color.transparent.white.70}",
+        "type": "color",
+        "description": "Secondary button background inverse hover color"
+      },
+      "tertiary": {
+        "value": "{global.color.transparent.black.10}",
+        "type": "color",
+        "description": "Tertiary button background color"
+      },
+      "tertiary-hover": {
+        "value": "{global.color.transparent.black.20}",
+        "type": "color",
+        "description": "Tertiary button background hover color"
+      },
+      "tertiary-inverse-hover": {
+        "value": "{global.color.transparent.white.20}",
+        "type": "color",
+        "description": "Tertiary button background inverse hover color"
+      },
+      "plain": {
+        "value": "{global.color.transparent.black.10}",
+        "type": "color",
+        "description": "Plain button background color"
+      },
+      "plain-hover": {
+        "value": "{global.color.transparent.black.20}",
+        "type": "color",
+        "description": "Plain button background hover color"
+      },
+      "plain-inverse-hover": {
+        "value": "{global.color.transparent.white.20}",
+        "type": "color",
+        "description": "Plain button background inverse hover color"
+      }
+    }
+  },
+  "icon": {
+    "size": {
+      "small": {
+        "value": "{size.60}",
+        "type": "sizing",
+        "description": "Small button icon size"
+      },
+      "medium": {
+        "value": "{size.70}",
+        "type": "sizing",
+        "description": "Medium button icon size"
+      },
+      "large": {
+        "value": "{size.80}",
+        "type": "sizing",
+        "description": "Default icon size unless specified otherwise"
+      }
+    }
+  },
+  "radius": {
+    "button": {
+      "round": {
+        "value": "{border-radius.pill}",
+        "type": "borderRadius",
+        "description": "Small button radius"
+      },
+      "medium": {
+        "value": "{border-radius.medium}",
+        "type": "borderRadius",
+        "description": "Medium and large button radius"
+      }
+    }
+  }
+}
