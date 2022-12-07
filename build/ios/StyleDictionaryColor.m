@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 07 Dec 2022 11:28:48 GMT
+// Generated on Wed, 07 Dec 2022 11:30:22 GMT
 
 
 #import "StyleDictionaryColor.h"
@@ -38,7 +38,7 @@
 #017c7e,
 #014f51,
 #02b3b6,
-#AEE7E8,
+#AEE7SS,
 #000000f0,
 #ffffff,
 #017c7e,
@@ -86,7 +86,7 @@
 #fff7f5,
 #fff5eb,
 #f6fcee,
-#F7FDFD,
+#F7FSSD,
 #F6F6F6,
 #ffffff,
 #F6F6F6,

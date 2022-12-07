@@ -1,7 +1,7 @@
 
 
 // Do not edit directly
-// Generated on Wed, 07 Dec 2022 11:28:48 GMT
+// Generated on Wed, 07 Dec 2022 11:30:22 GMT
 
 
 
@@ -68,7 +68,7 @@ object StyleDictionaryColor {
   val colorSurfaceRow = #00000000
   val colorSurfaceRowHover = #00000008
   val colorSurfaceRowInverseHover = #ffffff21
-  val colorSurfaceSemanticsInformation = #F7FDFD
+  val colorSurfaceSemanticsInformation = #F7FSSD
   val colorSurfaceSemanticsNegative = #fff7f5
   val colorSurfaceSemanticsNeutral = #F6F6F6
   val colorSurfaceSemanticsPositive = #f6fcee
@@ -80,7 +80,7 @@ object StyleDictionaryColor {
   val colorTextInteractive = #017c7e
   val colorTextInteractiveHover = #014f51
   val colorTextInteractiveInverse = #02b3b6
-  val colorTextInteractiveInverseHover = #AEE7E8
+  val colorTextInteractiveInverseHover = #AEE7SS
   val colorTextNegative = #d92008
   val colorTextNegativeInverse = #f8503a
   val colorTextPlaceholder = #0000004d

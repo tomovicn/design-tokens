@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 07 Dec 2022 11:28:48 GMT
+// Generated on Wed, 07 Dec 2022 11:30:22 GMT
 
 
 import UIKit
@@ -76,7 +76,7 @@ internal struct StyleDictionaryStruct {
     internal static let colorSurfaceRow = #00000000
     internal static let colorSurfaceRowHover = #00000008
     internal static let colorSurfaceRowInverseHover = #ffffff21
-    internal static let colorSurfaceSemanticsInformation = #F7FDFD
+    internal static let colorSurfaceSemanticsInformation = #F7FSSD
     internal static let colorSurfaceSemanticsNegative = #fff7f5
     internal static let colorSurfaceSemanticsNeutral = #F6F6F6
     internal static let colorSurfaceSemanticsPositive = #f6fcee
@@ -88,7 +88,7 @@ internal struct StyleDictionaryStruct {
     internal static let colorTextInteractive = #017c7e
     internal static let colorTextInteractiveHover = #014f51
     internal static let colorTextInteractiveInverse = #02b3b6
-    internal static let colorTextInteractiveInverseHover = #AEE7E8
+    internal static let colorTextInteractiveInverseHover = #AEE7SS
     internal static let colorTextNegative = #d92008
     internal static let colorTextNegativeInverse = #f8503a
     internal static let colorTextPlaceholder = #0000004d
@@ -153,9 +153,9 @@ internal struct StyleDictionaryStruct {
     internal static let globalColorMoritz50 = #ff7d04
     internal static let globalColorMoritz60 = #b85900
     internal static let globalColorMoritz70 = #3d1e00
-    internal static let globalColorNeuchatel10 = #F7FDFD
-    internal static let globalColorNeuchatel20 = #E7F8F8
-    internal static let globalColorNeuchatel30 = #AEE7E8
+    internal static let globalColorNeuchatel10 = #F7FSSD
+    internal static let globalColorNeuchatel20 = #E7F8SS
+    internal static let globalColorNeuchatel30 = #AEE7SS
     internal static let globalColorNeuchatel40 = #02b3b6
     internal static let globalColorNeuchatel50 = #017c7e
     internal static let globalColorNeuchatel60 = #014f51
